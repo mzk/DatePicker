@@ -1,0 +1,23 @@
+{
+	"name": "mzk/DatePicker",
+	"type": "library",
+	"description": "DatePicker Addon for Nette Framework",
+	"keywords": ["nette", "DatePicker"],
+	"authors": [
+	{
+		"name": "Jan Tvrdik"
+		},
+		{
+		"name": "Olda Salek"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"nette/nette": ">=2.0.5"
+	},
+	"autoload": {
+		"classmap": {
+			"mzk": ""
+		}
+	}
+}
